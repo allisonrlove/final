@@ -5,13 +5,13 @@ layout: scrollstory
 date: 2025-07-21
 thumbnail: images/seedling-card.jpg
 summary: Perfect for beginners getting comfortable with Markdown and digital essays. Section headings, a few images, pull quotes, and footnotes. Nothing fancy, but enough to make a visually compelling essay.
-header-image: images/gurau-felicia-AVu1uHyoCBg-unsplash.jpg
-header-title: The Seedling
-header-subtitle: a beginner scrollstory
-header-caption: Photo by <a href="https://unsplash.com/@feliluci">Gurău Felicia</a> on <a href="https://unsplash.com">Unsplash</a>
+header-image: cushier1.jpg
+header-title: My Dear Dear Doctor
+header-subtitle: Elizabeth Cushier and Emily Blackwell's Love and Careers
+header-caption: Letter from Cushier to Blackwell 
 header-position: 0px
 geo: [37.88, -81.08]
-placename: New River Gorge National Park
+placename: Cushier Letter
 toc-section: first
 tags:
     - history
