@@ -5,7 +5,7 @@ layout: scrollstory
 date: 2026-05-12
 thumbnail: images/seedling-card.jpg
 summary: Perfect for beginners getting comfortable with Markdown and digital essays. Section headings, a few images, pull quotes, and footnotes. Nothing fancy, but enough to make a visually compelling essay.
-header-image: cushier1.jpg
+header-image: images/cushier1.jpg
 header-title: My Dear Dear Doctor
 header-subtitle: Elizabeth Cushier and Emily Blackwell's Love and Careers
 header-caption: Letter from Cushier to Blackwell 
