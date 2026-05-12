@@ -4,7 +4,7 @@ layout: base
 ---
 Elizabeth Cushier and Emily Blackwell's Love and Careers
 
-# ScrollStory Template for Xanthan
+# My Dear Dear Doctor
 
 A ready-to-use template for creating immersive narrative essays with scrolling backgrounds, overlays, and visual storytelling. This template is part of [Xanthan](xanthan-web-github.io).
 
