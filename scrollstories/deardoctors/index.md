@@ -18,11 +18,11 @@ tags:
     - campus
 ---
 
-This essay demonstrates the **simplest ScrollStory approach**—perfect if you're just learning Markdown or want students to focus on writing rather than complex formatting. As you scroll through, notice the clean, uncluttered design that lets content breathe.
+“It is such a comfort to think of your coming back though, + such a pleasure to know that you will be happy here, + that we shall soon be at work again together…believe me as ever dear dear doctor with love from EMC.”[^1]
 
-**What makes this a "Seedling" essay?** It uses only basic components: section headings, images with captions, pull quotes, alert boxes, and footnotes. No background switching, no side-scrolling—just straightforward digital storytelling that's more visually engaging than a standard web page.
+[^1]: Elizabeth Cushier, Elizabeth to Emily Blackwell, Letters to Emily Blackwell, n.d.; includes letters from Emily Blackwell's companion, Dr. Elizabeth Cushier, from Mary Putman Jacobi, Marie Blackwell Droussart, and E.S. Minturn re: Harvard Annex entrance examinations, Papers of the Blackwell family, 1831-1981, MC 411, 187., Box 20, Schlesinger Library on the History of Women in America, Harvard Radcliffe Institute. https://id.lib.harvard.edu/ead/c/sch00050c00224/catalog Accessed May 12, 2026. 
 
-The text below is mostly filler to show how an essay flows, but we'll call out key features as you encounter them.
+This is an excerpt from a letter sent by Elizabeth Cushier to her long-term partner and housemate, Emily Blackwell, written sometime between 1883-1910. Here, Cushier shows her love and care for the other woman and simultaneously draws a tie between her medical profession and their love. Cushier, also a doctor, in this small excerpt, divulges an intimate connection between love shared amid two women and nineteenth-century medical professionals.  
 
 
 ## The Hero Header
