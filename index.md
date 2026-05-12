@@ -10,7 +10,7 @@ Elizabeth Cushier and Emily Blackwell's Love and Careers
   width="60%"
   caption="First page of Cushier's letter"
   alt-text="Hiking trails winding through a canyon in the Sandia foothills."
-  image-path="/assets/images/Project/cushier1jpg"
+  image-path="/assets/images/Project/cushier1.jpg"
 %}
 
 A ready-to-use template for creating immersive narrative essays with scrolling backgrounds, overlays, and visual storytelling. This template is part of [Xanthan](xanthan-web-github.io).
