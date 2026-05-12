@@ -2,7 +2,7 @@
 title: Seedling
 author: Fred Gibbs
 layout: scrollstory
-date: 2025-07-21
+date: 2026-05-12
 thumbnail: images/seedling-card.jpg
 summary: Perfect for beginners getting comfortable with Markdown and digital essays. Section headings, a few images, pull quotes, and footnotes. Nothing fancy, but enough to make a visually compelling essay.
 header-image: cushier1.jpg
