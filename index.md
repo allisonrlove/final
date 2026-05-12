@@ -1,5 +1,6 @@
 ---
-title: ScrollStory Template
+title: My Dear Dear Doctor
+Elizabeth Cushier and Emily Blackwell's Love and Careers
 layout: base
 ---
 
